@@ -1,7 +1,7 @@
 
   # ¡Hola! Soy Marcos Lezcano
 
-Soy Programador Web Full Stack y un apasionado d las nuevas tecnologías en todos los campos. Actualmente me encuentro trabajando en mi proyecto final del bootcamp intensivo Soy Henry. ¡Un e-commerce!
+Soy Programador Web Full Stack y un apasionado de las nuevas tecnologías en todos los campos. Actualmente me encuentro trabajando en mi proyecto final del bootcamp intensivo Soy Henry. ¡Un e-commerce!
 
 ### Tecnologías: 💻
 
