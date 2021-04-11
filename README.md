@@ -1,16 +1,23 @@
-### Hi there 👋
 
-<!--
-**lezcanozarza/lezcanozarza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  # ¡Hola! Soy Marcos Lezcano
 
-Here are some ideas to get you started:
+Soy Programador Web Full Stack y un apasionado d las nuevas tecnologías en todos los campos. Actualmente me encuentro trabajando en mi proyecto final del bootcamp intensivo Soy Henry. ¡Un e-commerce!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tecnologías: 💻
+
+- JavaScript
+- HTML
+- CSS
+- CSS Modules
+- SASS
+- Bootstrap
+- Photoshop
+- React
+- Redux
+- NodeJS & Express
+- Sequelize & Postgres
+
+### Contacto 📩
+
+- LinkedIn: [https://www.linkedin.com/in/marcos-ariel-lezcano-4428bb1b8/]https://www.linkedin.com/in/marcos-ariel-lezcano-4428bb1b8/)
+- E-mail: 
