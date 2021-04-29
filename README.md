@@ -16,8 +16,11 @@ Soy Programador Web Full Stack y un apasionado de las nuevas tecnologías en tod
 - Redux
 - NodeJS & Express
 - Sequelize & Postgres
+- Cloudinary
+- Supabase [learning]
+- Tailwind [learning]
 
 ### Contacto 📩
 
-- LinkedIn: [https://www.linkedin.com/in/marcos-ariel-lezcano-4428bb1b8/]https://www.linkedin.com/in/marcos-ariel-lezcano-4428bb1b8/)
-- E-mail: 
+- LinkedIn: https://www.linkedin.com/in/marcos-ariel-lezcano-4428bb1b8/
+- E-mail: marcoslezcanodev@gmail.com
