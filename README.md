@@ -1,11 +1,12 @@
 
   # ¡Hola! Soy Marcos Lezcano
 
-Soy Programador Web Full Stack y un apasionado de las nuevas tecnologías en todos los campos. Actualmente me encuentro trabajando en mi proyecto final del bootcamp intensivo Soy Henry. ¡Un e-commerce!
+Soy Programador Web Full Stack y un apasionado de las nuevas tecnologías en todos los campos.
 
-### Tecnologías: 💻
+### Algunas de las tecnologías con las que trabajo: 💻
 
 - JavaScript
+- Typescript
 - HTML
 - CSS
 - CSS Modules
@@ -13,6 +14,7 @@ Soy Programador Web Full Stack y un apasionado de las nuevas tecnologías en tod
 - Bootstrap
 - Photoshop
 - React
+- Next.js
 - Redux
 - NodeJS & Express
 - Sequelize & Postgres
@@ -22,5 +24,5 @@ Soy Programador Web Full Stack y un apasionado de las nuevas tecnologías en tod
 
 ### Contacto 📩
 
-- LinkedIn: https://www.linkedin.com/in/marcos-ariel-lezcano-4428bb1b8/
+- LinkedIn: [https://www.linkedin.com/in/marcos-ariel-lezcano-4428bb1b8/](https://www.linkedin.com/in/marcos-lezcano/)https://www.linkedin.com/in/marcos-lezcano/
 - E-mail: marcoslezcanodev@gmail.com
